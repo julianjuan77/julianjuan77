@@ -1,79 +1,35 @@
-# 👋 Hola, soy Julián Juan
+# 👋 Hola, soy Julián
 
-Administrador de Infraestructura y Sistemas con +4 años de experiencia en entornos productivos. Trabajo con Linux, Windows Server y contenedores, enfocado en automatización, despliegues y estabilidad operativa.
-**Actualmente incorporando cloud computing (AWS y Azure) a mi stack profesional**.
+** Freelance en Soluciones Tecnológicas **
 
-📍 Buenos Aires, Argentina
+Me apasiona construir soluciones que resuelven problemas reales. Mi enfoque combina la solidez de la infraestructura y sistemas críticos con la agilidad de la Inteligencia Artificial y la Automatización. Actualmente, colaboro con una startup de España en el diseño y despliegue de ecosistemas de gestión para sectores con flujos de información sensibles, como el legal y la consultoría impositiva.
 
-🌍 Abierto a oportunidades remotas
+---
 
-## 🧠 Perfil profesional
+## 🧠 Perfil Profesional
 
-Administración de sistemas Linux y Windows Server
+*   **Arquitectura de Sistemas de Gestión:** Diseño de plataformas personalizadas para administración de datos, CRM y flujos operativos.
+*   **Automatización Avanzada:** Creación de flujos de trabajo inteligentes integrando agentes de IA y herramientas de automatización (n8n, scripting).
+*   **Inteligencia de Datos (BI):** Implementación de dashboards estratégicos para transformar datos operativos en información visual para la toma de decisiones.
+*   **Infraestructura y Seguridad:** Especialista en administración de servidores Linux, contenedores (Docker) y estabilidad operativa.
 
-Despliegue y operación de aplicaciones con Docker
+---
 
-Automatización de tareas y procesos con Bash y PowerShell
+## 🛠️ Tecnologías y Herramientas
 
-Experiencia en redes y troubleshooting
+*   **IA & Automatización:** Integración de Agentes de IA, flujos en n8n, Automatización de Procesos.
+*   **Datos & BI:** Metabase, SQL, Análisis de métricas y dashboards estratégicos.
+*   **Infraestructura:** Linux (Ubuntu/Debian), Docker, Networking, Seguridad/Firewalls, Bash & PowerShell Scripting.
+*   **Desarrollo:** JavaScript (React), Python, PHP, Soluciones personalizadas sobre WordPress.
 
-Desarrollo web con Wordpress aplicado a entornos reales de pequeñas empresas.
-
-**En transición activa hacia roles DevOps / Cloud Infrastructure**
-
-## 🛠️ Tecnologías y herramientas
-
-**Infraestructura**
-
-Linux · Windows Server · Docker · Contenedores · Networking · TCP/IP · DNS · Firewalls · Bash · PowerShell
-
-**DevOps (in progress)**
-
-AWS · Azure · Terraform · GitHub Actions · Kubernetes · Prometheus · Grafana
-
-**Desarrollo**
-
-WordPress (soluciones personalizadas con código) · PHP · React
-
-## 🚀 Qué hago actualmente
-
-Administración y mantenimiento de infraestructura
-
-Automatización de procesos operativos
-
-Despliegue de aplicaciones contenerizadas
-
-Desarrollo de soluciones WordPress no estándar (mayoristas, flujos personalizados, integraciones)
-
-Formación continua en DevOps, CI/CD e Infraestructura como Código
-
-## 🎓 Formación
-
-Redes informáticas — Cisco CCNA
-
-Administración de bases de datos
-
-Programación Full Stack
-
-Cursos y certificaciones adicionales disponibles en mi
-👉 [Perfil de linkedin](https://www.linkedin.com/in/julianjuan77/).
-
-## 🔍 Open to Work
-
-Busco oportunidades en roles de:
-
-Administración de Infraestructura
-
-DevOps / Cloud Engineer (Junior–Semi Senior)
-
-WordPress Developer (proyectos técnicos / a medida)
-
-Especial interés en trabajo remoto, equipos distribuidos y proyectos con foco en automatización y buenas prácticas.
+---
 
 ## 📫 Contacto
 
-LinkedIn: linkedin.com/in/julianjuan77
+*   **LinkedIn:** [linkedin.com/in/julianjuan77](https://www.linkedin.com/in/julianjuan77/)
+*   **Email:** [contacto@julianjuan.com.ar](mailto:contacto@julianjuan.com.ar)
+*   **Web:** [julianjuan.com.ar](https://julianjuan.com.ar)
 
-Mail: contacto@julianjuan.com.ar
+---
 
- Mi web: https://julianjuan.com.ar
+### ⚡ "La tecnología es el puente, la solución es el objetivo."
