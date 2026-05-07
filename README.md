@@ -1,6 +1,6 @@
 # 👋 Hola, soy Julián
 
-** Freelance en Soluciones Tecnológicas **
+**Freelance en Soluciones Tecnológicas**
 
 Me apasiona construir soluciones que resuelven problemas reales. Mi enfoque combina la solidez de la infraestructura y sistemas críticos con la agilidad de la Inteligencia Artificial y la Automatización. Actualmente, colaboro con una startup de España en el diseño y despliegue de ecosistemas de gestión para sectores con flujos de información sensibles, como el legal y la consultoría impositiva.
 
