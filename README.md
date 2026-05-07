@@ -1,35 +1,76 @@
 # 👋 Hola, soy Julián
 
-**Freelance en Soluciones Tecnológicas**
+**Especialista en Soluciones Tecnológicas, Datos e Inteligencia Operativa**
 
-Me apasiona construir soluciones que resuelven problemas reales. Mi enfoque combina la solidez de la infraestructura y sistemas críticos con la agilidad de la Inteligencia Artificial y la Automatización. Actualmente, colaboro con una startup de España en el diseño y despliegue de ecosistemas de gestión para sectores con flujos de información sensibles, como el legal y la consultoría impositiva.
+Me apasiona desarrollar soluciones que transformen información compleja en decisiones claras y accionables. Mi trabajo se enfoca en integrar tecnología, automatización e inteligencia de datos para optimizar procesos, mejorar la capacidad de respuesta y aportar herramientas estratégicas para la gestión y la toma de decisiones.
+
+Actualmente colaboro con una startup de España en el diseño e implementación de ecosistemas de gestión para sectores con flujos de información altamente sensibles, particularmente en ámbitos legales e impositivos, priorizando siempre la integridad, trazabilidad y seguridad de los datos.
 
 ---
 
 ## 🧠 Perfil Profesional
 
-*   **Arquitectura de Sistemas de Gestión:** Diseño de plataformas personalizadas para administración de datos, CRM y flujos operativos.
-*   **Automatización Avanzada:** Creación de flujos de trabajo inteligentes integrando agentes de IA y herramientas de automatización (n8n, scripting).
-*   **Inteligencia de Datos (BI):** Implementación de dashboards estratégicos para transformar datos operativos en información visual para la toma de decisiones.
-*   **Infraestructura y Seguridad:** Especialista en administración de servidores Linux, contenedores (Docker) y estabilidad operativa.
+### 📊 Inteligencia de Datos & Business Intelligence
+
+Diseño dashboards estratégicos y sistemas de visualización orientados al análisis operativo y la toma de decisiones. Trabajo con grandes volúmenes de información para transformar datos dispersos en métricas claras, indicadores relevantes y herramientas de seguimiento en tiempo real.
+
+### 🤖 Automatización e Inteligencia Artificial
+
+Desarrollo flujos de trabajo inteligentes mediante automatización, scripting y agentes de IA, integrando distintas fuentes de información para agilizar procesos, reducir tareas manuales y mejorar la capacidad operativa de las organizaciones.
+
+### 🏗️ Arquitectura de Sistemas de Gestión
+
+Diseño plataformas y entornos de gestión personalizados para administrar información, operaciones y relaciones internas, adaptados a estructuras dinámicas y necesidades específicas.
+
+### 🔐 Infraestructura, Estabilidad y Seguridad
+
+Experiencia en administración de entornos Linux, contenedores Docker y servicios críticos, garantizando estabilidad operativa, seguridad y continuidad en sistemas sensibles.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-*   **IA & Automatización:** Integración de Agentes de IA, flujos en n8n, Automatización de Procesos.
-*   **Datos & BI:** Metabase, SQL, Análisis de métricas y dashboards estratégicos.
-*   **Infraestructura:** Linux (Ubuntu/Debian), Docker, Networking, Seguridad/Firewalls, Bash & PowerShell Scripting.
-*   **Desarrollo:** JavaScript (React), Python, PHP, Soluciones personalizadas sobre WordPress.
+### Datos & BI
+
+* Metabase
+* SQL
+* Dashboards Estratégicos
+* Visualización de Datos
+* Análisis de Métricas
+* Reporting Operativo
+* Integración de Fuentes de Datos
+
+### IA & Automatización
+
+* Agentes de IA
+* n8n
+* Automatización de Procesos
+* Bash & PowerShell Scripting
+* Integración de APIs y Flujos Operativos
+
+### Infraestructura & Sistemas
+
+* Linux (Ubuntu / Debian)
+* Docker
+* Networking
+* Firewalls & Seguridad
+* Administración de Infraestructura
+
+### Desarrollo
+
+* JavaScript (React)
+* Python
+* PHP
+* WordPress Custom Solutions
 
 ---
 
 ## 📫 Contacto
 
-*   **LinkedIn:** [linkedin.com/in/julianjuan77](https://www.linkedin.com/in/julianjuan77/)
-*   **Email:** [contacto@julianjuan.com.ar](mailto:contacto@julianjuan.com.ar)
-*   **Web:** [julianjuan.com.ar](https://julianjuan.com.ar)
+* LinkedIn: linkedin.com/in/julianjuan77
+* Email: [contacto@julianjuan.com.ar](mailto:contacto@julianjuan.com.ar)
+* Web: julianjuan.com.ar
 
 ---
 
-### ⚡ "La tecnología es el puente, la solución es el objetivo."
+### ⚡ “Los datos permiten entender. La tecnología permite actuar.”
